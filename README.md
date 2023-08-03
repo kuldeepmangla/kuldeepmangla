@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kuldeepmangla
 - 👀 I’m interested in building life easing tools
-- 🌱 I’m currently learning webD
 - 📫 How to reach me kuldeepmangla2002@gmail.com
 
 <!---
